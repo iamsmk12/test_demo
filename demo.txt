@@ -10,7 +10,12 @@
 <p>This is not my second GitHub Project</p>
 <p>This is a new paragraph</p>
 <p>This is only for testing</p>
+<<<<<<< HEAD
 <p>We just created a brach</p>
 <p>We are making change to ensure our branch</p>
+=======
+<p>This is for branch</p>
+<p>This is for branch conformations</p>
+>>>>>>> hello
 </body>
 </html>
