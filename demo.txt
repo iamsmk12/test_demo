@@ -13,9 +13,13 @@
 <<<<<<< HEAD
 <p>We just created a brach</p>
 <p>We are making change to ensure our branch</p>
+<<<<<<< HEAD
 =======
 <p>This is for branch</p>
 <p>This is for branch conformations</p>
 >>>>>>> hello
+=======
+<p>Changes made for branch example</p>
+>>>>>>> 9aa6ba1da5367fe1916726612798da2acb43fdc8
 </body>
 </html>
