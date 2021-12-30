@@ -8,5 +8,7 @@
 <h1>Hello World!</h1>
 <p>My first GitHub Project</p>
 <p>This is not my second GitHub Project</p>
+<p>This is a new paragraph</p>
+<p>This is only for testing</p>
 </body>
 </html>
